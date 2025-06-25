@@ -1,0 +1,39 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: #f5f5f5;
+    color: #333;
+}
+header {
+    background: #004AAD;
+    color: white;
+    text-align: center;
+    padding: 2rem 1rem;
+}
+header h1 {
+    margin-bottom: 0.5rem;
+}
+.cta {
+    text-align: center;
+    padding: 1rem;
+    background: #ffde59;
+}
+.cta a {
+    margin: 0 1rem;
+    color: #004AAD;
+    font-weight: bold;
+    text-decoration: none;
+}
+main {
+    padding: 2rem;
+}
+section {
+    margin-bottom: 2rem;
+}
+footer {
+    text-align: center;
+    padding: 1rem;
+    background: #eee;
+}
